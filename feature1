@@ -1,3 +1,4 @@
+//file input ouput code work
 #include <stdio.h>
 int main()
 {
