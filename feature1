@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+    FILE *fptr;
+    fptr = open("README.md","r");
+    fclose(fptr);
+    return 0;
+}
